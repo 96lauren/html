@@ -1,0 +1,17 @@
+body{
+ 
+    background-image:  url(../images/sunrise.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+	background-attachment: fixed;
+}
+.container{
+	width: 1000px;
+	min-height: 500px;
+	padding: 30px;
+	margin:30px auto;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	
+}
